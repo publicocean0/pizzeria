@@ -1,0 +1,14 @@
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/UserDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/IngredientDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/FileDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/OrderItemDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/PizzaSizeDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/OrderDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/BakeStyleDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/AccountDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/OrderItemTemplateDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/CutStyleDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/CustomerDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/ReviewDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/GenericDAO.java
+/home/cristian/pizzeria/dao-api/src/main/java/pzinsta/pizzeria/dao/CrustDAO.java

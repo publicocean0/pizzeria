@@ -1,0 +1,10 @@
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/ReviewServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/AccountServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/strategy/impl/FixedDeliveryCostCalculationStrategyTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/CustomerServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderItemTemplateServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/CustomerRegistrationServiceImplTest.java
+/home/cristian/pizzeria/service-impl/src/test/java/pzinsta/pizzeria/service/impl/FileSystemFileStorageServiceTest.java

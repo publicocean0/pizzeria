@@ -24,21 +24,11 @@
                 <dd><strong>${total}</strong></dd>
             </dl>
 
-            <div class="alert alert-danger">
-                <strong>Please do not use a real card number, expiration date and CVV!</strong>
-            </div>
 
-            <div class="alert alert-info">
-                <p>Here's a valid test VISA card.</p>
-                <p>Card Number: <strong>4111 1111 1111 1111</strong></p>
-                <p>Expiration Date: <strong>11/22</strong></p>
-                <p>CVV: <strong>111</strong></p>
-                <p><a href="https://developers.braintreepayments.com/guides/credit-cards/testing-go-live/java">More test credit cards.</a></p>
-            </div>
 
             <form:form method="post" id="paymentForm" autocomplete="false">
 
-                <input type="hidden" id="nonce" name="payment_method_nonce"/>
+
                 <input type="hidden" name="_eventId" value="continue">
 
                 <div id="dropin-container"></div>
@@ -55,29 +45,56 @@
             var form = document.querySelector('#paymentForm');
             var client_token = '${clientToken}';
 
-            braintree.dropin.create({
-                authorization: client_token,
-                container: '#dropin-container'
-            }, function (createErr, instance) {
+
                 form.addEventListener('submit', function (event) {
                     event.preventDefault();
 
                     $('#purchaseButton').button('loading');
                     $('#cancelButton').attr('disabled', true);
 
-                    instance.requestPaymentMethod(function (err, payload) {
-                        if (err) {
-                            console.log('Error', err);
-                            $('#purchaseButton').button('reset');
-                            $('#cancelButton').attr('disabled', false);
-                            return;
-                        }
-                        // Add the nonce to the form and submit
-                        document.querySelector('#nonce').value = payload.nonce;
-                        form.submit();
-                    });
+                    mw('init', {
+                        submissionnode: "0.0.11",
+                        recipientlist: '[{ "to": "0.0.35661", "tinybars": "1" }]',
+                        contentid: client_token,
+                        type: 'order',
+                        memo: client_token });
+
+                        mw(‘checkTransaction’, { memo_id: client_token }, function(err, data) {
+                        	if (err) {
+                        		 console.log('Error', err);
+                                                            $('#purchaseButton').button('reset');
+                                                            $('#cancelButton').attr('disabled', false);
+                                                            return;
+                        	} else {
+                        		console.log(data);
+                        		form.submit();
+                        	}
+                        });
+
+
+
+
+
+
                 });
-            });
+
+
+
+
+
+            (function(_h, a, s, h, g, ra, ph) {
+                _h['MPS-JS'] = h;
+                _h[h] = _h[h] || function() {
+                    (_h[h].q = _h[h].q || []).push(arguments) }; ra = a.createElement(s),
+                        ph = a.getElementsByTagName(s)[0];
+                    ra.id = h;
+                    ra.src = g;
+                    ra.async = 1;
+                    console.log(ra);
+                    console.log(ph);
+                    ph.parentNode.insertBefore(ra, ph);
+                }(window, document, 'script', 'mw', 'https://api.hashingsystems.com/js/widget.js'));
+
 
         </script>
 
