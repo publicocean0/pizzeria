@@ -15,8 +15,8 @@ pzinsta/pizzeria/web/controller/ReviewController.class
 pzinsta/pizzeria/web/rest/UsersRestController.class
 pzinsta/pizzeria/web/controller/HomeController.class
 pzinsta/pizzeria/web/config/MessageSecurityWebApplicationInitializer.class
-pzinsta/pizzeria/web/flow/action/BraintreeAction.class
 pzinsta/pizzeria/web/validator/PizzaBuilderFormValidator.class
+pzinsta/pizzeria/web/flow/action/PaymentAction.class
 pzinsta/pizzeria/web/controller/OrderController.class
 pzinsta/pizzeria/web/controller/DeliveryAddressController.class
 pzinsta/pizzeria/web/validator/DeliveryAddressFormValidator.class

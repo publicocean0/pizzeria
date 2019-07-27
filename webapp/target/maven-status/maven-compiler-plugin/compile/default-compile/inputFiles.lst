@@ -1,4 +1,3 @@
-/home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/BraintreeAction.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/form/PizzaBuilderForm.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/security/service/PizzeriaUserDetailsService.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/validator/DeliveryAddressValidator.java
@@ -18,6 +17,7 @@
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/validator/CustomerRegistrationFormValidator.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/controller/FileStorageController.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/controller/ReviewController.java
+/home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/config/SecurityConfig.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/config/PizzeriaServletInitializer.java
 /home/cristian/pizzeria/webapp/src/main/java/pzinsta/pizzeria/web/validator/CustomerValidator.java

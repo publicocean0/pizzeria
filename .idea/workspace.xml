@@ -7,14 +7,7 @@
       <change beforePath="$PROJECT_DIR$/dao-impl/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao-impl/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/strategy/impl/FixedDeliveryCostCalculationStrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/strategy/impl/FixedDeliveryCostCalculationStrategyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.AccountServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.AccountServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.xml" afterDir="false" />
@@ -24,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.ReviewServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.ReviewServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.AccountServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.AccountServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.txt" afterDir="false" />
@@ -32,21 +26,16 @@
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.ReviewServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.ReviewServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/crust.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/ingredient.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/SESSIONS.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/home_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/config/RootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/config/RootConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/scripts/crust.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/scripts/ingredient.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/classes/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/scripts/crust.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/classes/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/scripts/ingredient.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/classes/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/crust.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/ingredient.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/pizzasize.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/BraintreeAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/model/target/" />
@@ -68,16 +57,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+            <state relative-caret-position="468">
+              <caret line="73" column="38" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -98,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="435">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,6 +144,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="112" column="34" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -154,6 +164,7 @@
       <find>usD</find>
       <find>USD</find>
       <find>ℏ</find>
+      <find>success</find>
     </findStrings>
     <replaceStrings>
       <replace>ℏ</replace>
@@ -175,12 +186,14 @@
         <option value="$PROJECT_DIR$/webapp/src/main/resources/scripts/crust.sql" />
         <option value="$PROJECT_DIR$/webapp/src/main/resources/scripts/ingredient.sql" />
         <option value="$PROJECT_DIR$/webapp/src/main/resources/scripts/pizzasize.sql" />
-        <option value="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" />
         <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/BitCoinProvider.java" />
         <option value="$PROJECT_DIR$/service-impl/src/main/resources/javax.money.spi.CurrencyProviderSpi" />
         <option value="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf" />
         <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" />
         <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" />
+        <option value="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" />
+        <option value="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java" />
+        <option value="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" />
       </list>
     </option>
   </component>
@@ -213,51 +226,6 @@
             <path>
               <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
               <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,6 +240,43 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
@@ -316,6 +321,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="flows" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
@@ -424,13 +450,20 @@
       <option name="project" value="LOCAL" />
       <updated>1563887598138</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1564225584315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564225584315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1602" height="881" extended-state="7" />
+    <frame x="-1" y="-1" width="1602" height="881" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,7 +482,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019305" side_tool="true" weight="0.32978722" />
       <window_info anchor="bottom" id="ANTLR Preview" order="11" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.4980695" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4980695" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -667,20 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/BraintreeAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="100" column="66" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/spi/MonetaryCurrenciesSingletonSpi.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -789,10 +808,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp">
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        <state relative-caret-position="299">
+          <caret line="112" column="34" selection-start-line="112" selection-start-column="34" selection-end-line="112" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -805,18 +841,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="435">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="468">
+          <caret line="73" column="38" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
         </state>
       </provider>
     </entry>

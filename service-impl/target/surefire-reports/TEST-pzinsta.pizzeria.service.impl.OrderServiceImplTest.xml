@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="16" failures="0" name="pzinsta.pizzeria.service.impl.OrderServiceImplTest" time="0.163" errors="0" skipped="0">
+<testsuite tests="16" failures="0" name="pzinsta.pizzeria.service.impl.OrderServiceImplTest" time="0.157" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="10.0.2+13"/>
@@ -62,8 +62,8 @@
     <property name="java.vendor.version" value="18.3"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetCrustsFromDAO" time="0.109"/>
-  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldCreatePizzaOrderDTOByOrderItemIndex" time="0.014"/>
+  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetCrustsFromDAO" time="0.106"/>
+  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldCreatePizzaOrderDTOByOrderItemIndex" time="0.015"/>
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetIngredientsFromDAO" time="0.002"/>
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldAddPizzaOrderItemToCart" time="0.007"/>
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldRemoveOrderItemAtIndex" time="0.003"/>
@@ -73,9 +73,9 @@
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetOrderByTrackingNumber" time="0.002"/>
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGenerateListOfQuantities" time="0.003"/>
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldAddReviewToOrderByTrackingNumber" time="0.003"/>
-  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldPostOrder" time="0.004"/>
-  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetIngredientTypeByIngredientId" time="0.002"/>
-  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetBakeStylesFromDAO" time="0.002"/>
+  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldPostOrder" time="0.003"/>
+  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetIngredientTypeByIngredientId" time="0.001"/>
+  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetBakeStylesFromDAO" time="0.001"/>
   <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldEmptyCart" time="0.001"/>
-  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetCutStylesFromDAO" time="0.004"/>
+  <testcase classname="pzinsta.pizzeria.service.impl.OrderServiceImplTest" name="shouldGetCutStylesFromDAO" time="0.003"/>
 </testsuite>

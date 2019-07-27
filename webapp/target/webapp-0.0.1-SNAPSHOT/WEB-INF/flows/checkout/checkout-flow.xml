@@ -95,24 +95,22 @@
 
     <view-state id="payment" view="checkout/payment">
         <on-render>
-            <set name="flowScope.clientToken" value="braintreeAction.generateClientToken()"/>
+            <set name="flowScope.clientToken" value="paymentAction.generateClientToken()"/>
             <set name="flowScope.orderCost" value="orderCostCalculationService.calculateCost(flowScope.order)"/>
             <set name="flowScope.deliveryCost" value="deliveryCostCalculationService.calculateCost(flowScope.order.delivery)"/>
             <set name="flowScope.total" value="flowScope.deliveryCost.add(flowScope.orderCost)"/>
         </on-render>
-        <transition on="continue" to="chargeCustomer">
+        <transition on="continue" to="isPaymentSuccessful">
             <set name="flowScope.nonce" value="requestParameters.payment_method_nonce"/>
+            <set name="flowScope.paymentSuccessfull" value="requestParameters.paymentSuccessful"/>
         </transition>
         <transition on="cancel" to="endState" validate="false"/>
     </view-state>
 
-    <action-state id="chargeCustomer">
-        <evaluate expression="braintreeAction.chargeCustomer(flowScope.nonce, flowScope.orderCost, flowScope.deliveryCost)" result="flowScope.order.paymentTransactionId"/>
-        <transition to="isPaymentSuccessful"/>
-    </action-state>
+
 
     <decision-state id="isPaymentSuccessful">
-        <if test="braintreeAction.isTransactionSuccessful(flowScope.order.paymentTransactionId)" then="postOrder" else="payment"/>
+        <if test="paymentAction.isSuccessful(flowScope.paymentSuccessful)" then="postOrder" else="payment"/>
     </decision-state>
 
     <action-state id="postOrder">
