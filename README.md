@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/pzinsta/pizzeria.svg?branch=master)](https://travis-ci.org/pzinsta/pizzeria)
 
 # Pizzeria using Hedera payment technology 
 
