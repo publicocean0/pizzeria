@@ -89,7 +89,7 @@ The command line is :
 Go to [http://localhost:8081/pizzeria/](http://localhost:8081/pizzeria/) to check that the app is up and running.
 
 ## Built With
-* [MPS] (https://github.com/hashingsystems/mps.js)
+* [MPS](https://github.com/hashingsystems/mps.js)
 * [Maven](https://maven.apache.org/)
 * [Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html)
 * [Spring Web Flow](https://projects.spring.io/spring-webflow/)
