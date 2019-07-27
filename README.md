@@ -13,6 +13,9 @@ ingredients, select a crust, size, bake and cut styles and desired quantity.
 
 The user can also opt for one of the specialty pizzas, and either order one of those predefined templates or customize it however they like.
 
+![Pizza Hedera payment](documentation/payment.png?raw=true)
+
+The payment is requiring hedera chrome extension
 ### Pizza Builder on iPad
 
 ![Pizza Builder on iPad](documentation/gifs/builder_ipad.gif?raw=true)
