@@ -69,7 +69,7 @@ These instructions will get you a copy of the project up and running on your loc
 #### 1. Clone the repository
 
 ```
-git clone https://github.com/pzinsta/pizzeria.git
+git clone ...
 ```
 
 #### 2. Build the .war file
