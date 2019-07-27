@@ -13,7 +13,7 @@ import javax.money.MonetaryAmount;
 @Service("orderCostCalculationService")
 public class OrderCostCalculationServiceImpl implements OrderCostCalculationService {
 
-    private static final MonetaryAmount ZERO = Monetary.getDefaultAmountFactory().setNumber(0).setCurrency("ℏ").create();
+    private static final MonetaryAmount ZERO = Monetary.getDefaultAmountFactory().setNumber(0).setCurrency("HBAR").create();
 
     @Override
     public MonetaryAmount calculateCost(Order order) {

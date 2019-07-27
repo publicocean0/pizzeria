@@ -13,7 +13,7 @@ public class FixedDeliveryCostCalculationStrategyTest {
     public void shouldCalculateDeliveryCost() throws Exception {
         // given
         double amount = 4.73;
-        String currency = "ℏ";
+        String currency = "HBAR";
         MonetaryAmount cost = Monetary.getDefaultAmountFactory().setNumber(amount).setCurrency(currency).create();
 
         FixedDeliveryCostCalculationStrategy fixedDeliveryCostCalculationStrategy = new FixedDeliveryCostCalculationStrategy();

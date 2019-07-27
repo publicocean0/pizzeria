@@ -2,122 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1a0ecb-1a48-4779-9a07-48638d4130ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_core_1_11_346.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_kms_1_11_346.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_aws_java_sdk_s3_1_11_346.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_amazonaws_jmespath_java_1_11_346.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_braintreepayments_gateway_braintree_java_2_79_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_6_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jr_jackson_jr_objects_2_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_triology_recaptchav2_java_recaptchav2_java_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_money_money_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sargue_java_time_jsptags_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_rng_client_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_rng_core_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_rng_simple_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_web_2_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_7_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javamoney_moneta_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_osgi_org_osgi_core_4_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_webflow_spring_binding_2_5_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_webflow_spring_webflow_2_5_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__software_amazon_ion_ion_java_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pizzeria.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao-api/dao-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao-impl/dao-impl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-api/service-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-impl/service-impl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-impl/src/main/resources/META-INF/services/javax.money.spi.CurrencyProviderSpi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/webapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dao-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao-api/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dao-impl/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao-impl/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/strategy/impl/FixedDeliveryCostCalculationStrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/src/test/java/pzinsta/pizzeria/service/impl/strategy/impl/FixedDeliveryCostCalculationStrategyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.AccountServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.AccountServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerServiceImplTest.xml" afterDir="false" />
@@ -133,46 +29,24 @@
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.FileSystemFileStorageServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.FileSystemFileStorageServiceTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderCostCalculationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderCostCalculationServiceImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.ReviewServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.ReviewServiceImplTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/crust.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/ingredient.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/classes/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/fragments/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/fragments/footer.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/addDeliveryAddress_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/customerInformationConfirmation_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/enterComment_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/orderConfirmation_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/orderTypeSelection_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/payment_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/registeredCustomerDeliveryAddressSelection_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/checkout/suggestLoggingIn_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/home_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/home_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/login_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/orderReviewSearchForm_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/orderTrackerSearchForm_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/pizzaBuilder_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/register_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/reviews_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/SESSIONS.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/work/Tomcat/localhost/pizzeria/org/apache/jsp/WEB_002dINF/views/home_jsp.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/config/RootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/config/RootConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/scripts/crust.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/scripts/ingredient.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/src/main/resources/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/resources/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/target/classes/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/scripts/crust.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/target/classes/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/scripts/ingredient.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/target/classes/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/classes/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/crust.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/crust.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/ingredient.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/ingredient.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/pizzasize.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/classes/scripts/pizzasize.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/fragments/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/fragments/footer.jspf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/model/target/" />
@@ -195,31 +69,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="365" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="365" />
+            <state relative-caret-position="450">
+              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="100" column="66" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="44">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -227,26 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/head.jspf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="117" />
+            <state relative-caret-position="329">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -254,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="329">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -264,10 +108,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/CurrencyUnit.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/Monetary.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/MonetaryAmountFactory.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -300,10 +153,15 @@
       <find>usd</find>
       <find>usD</find>
       <find>USD</find>
+      <find>ℏ</find>
     </findStrings>
     <replaceStrings>
       <replace>ℏ</replace>
+      <replace>HBAR</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -319,10 +177,10 @@
         <option value="$PROJECT_DIR$/webapp/src/main/resources/scripts/pizzasize.sql" />
         <option value="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp" />
         <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/BitCoinProvider.java" />
-        <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" />
         <option value="$PROJECT_DIR$/service-impl/src/main/resources/javax.money.spi.CurrencyProviderSpi" />
-        <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" />
         <option value="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf" />
+        <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java" />
       </list>
     </option>
   </component>
@@ -351,41 +209,6 @@
             <path>
               <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
               <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
-              <item name="service-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
@@ -513,6 +336,17 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="checkout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pizzeria" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pizzeria" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="fragments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -545,6 +379,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="HbarProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pzinsta.pizzeria.service.impl.HbarProvider" />
+      <module name="service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pzinsta.pizzeria.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HbarProvider" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -574,10 +428,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1602" height="881" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="-1" width="1602" height="881" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -586,7 +439,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -596,7 +449,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019305" side_tool="true" weight="0.32978722" />
       <window_info anchor="bottom" id="ANTLR Preview" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4980695" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.4980695" visible="true" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -628,19 +481,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/hibernate.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="104" column="23" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/config/PizzeriaServletInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -834,24 +674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="100" column="66" selection-start-line="99" selection-start-column="54" selection-end-line="99" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/Monetary.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="185" column="42" selection-start-line="185" selection-start-column="42" selection-end-line="185" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -907,58 +733,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/MonetaryAmount.class">
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/head.jspf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="195">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="117" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java">
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/MonetaryAmount.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/CurrencyUnit.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/pzinsta/pizzeria/model/pizza/Crust.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="119">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/pzinsta/pizzeria/model/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/MonetaryAmountFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/money/money-api/1.0.1/money-api-1.0.1.jar!/javax/money/Monetary.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/checkout/payment.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/head.jspf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/views/fragments/footer.jspf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+        <state relative-caret-position="44">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
