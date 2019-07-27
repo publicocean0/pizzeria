@@ -28,9 +28,6 @@ The payment requires hedera chrome extension
 
 ![Pizza Builder for a template](documentation/gifs/builder_template_mobile.gif?raw=true)
 
-### Checkout
-
-![Checkout](documentation/gifs/checkout_as_guest_mobile.gif?raw=true)
 
 ### Write a Review
 
