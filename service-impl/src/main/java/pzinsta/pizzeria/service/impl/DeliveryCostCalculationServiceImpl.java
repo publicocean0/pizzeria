@@ -23,6 +23,6 @@ public class DeliveryCostCalculationServiceImpl implements DeliveryCostCalculati
     @Override
     public MonetaryAmount calculateCost(Delivery delivery) {
         return Optional.ofNullable(delivery).map(deliveryCostCalculationStrategy::calculateCost)
-                .orElse(Money.of(0, "USD"));
+                .orElse(Money.of(0, "ℏ"));
     }
 }

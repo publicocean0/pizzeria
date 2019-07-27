@@ -82,6 +82,6 @@ public class OrderCostCalculationServiceImplTest {
     }
 
     private static MonetaryAmount fromDouble(double amount) {
-        return Monetary.getDefaultAmountFactory().setCurrency("USD").setNumber(amount).create();
+        return Monetary.getDefaultAmountFactory().setCurrency("ℏ").setNumber(amount).create();
     }
 }

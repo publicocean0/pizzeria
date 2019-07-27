@@ -56,7 +56,7 @@ public class RootConfig {
     @Bean
     public DeliveryCostCalculationStrategy deliveryCostCalculationStrategy(@Value("${delivery.cost}") BigDecimal deliveryCost) {
         FixedDeliveryCostCalculationStrategy fixedDeliveryCostCalculationStrategy = new FixedDeliveryCostCalculationStrategy();
-        MonetaryAmount deliveryCostMonetaryAmount = Monetary.getDefaultAmountFactory().setCurrency("USD").setNumber(deliveryCost).create();
+        MonetaryAmount deliveryCostMonetaryAmount = Monetary.getDefaultAmountFactory().setCurrency("ℏ").setNumber(deliveryCost).create();
         fixedDeliveryCostCalculationStrategy.setCost(deliveryCostMonetaryAmount);
         return fixedDeliveryCostCalculationStrategy;
     }

@@ -28,7 +28,7 @@
 
             <form:form method="post" id="paymentForm" autocomplete="false">
 
-
+    <input type="hidden" id="nonce" name="payment_method_nonce"/>
                 <input type="hidden" name="_eventId" value="continue">
 
                 <div id="dropin-container"></div>
@@ -54,7 +54,7 @@
 
                     mw('init', {
                         submissionnode: "0.0.11",
-                        recipientlist: '[{ "to": "0.0.35661", "tinybars": "1" }]',
+                        recipientlist: '[{ "to": "0.0.9322", "tinybars": "1" }]',
                         contentid: client_token,
                         type: 'order',
                         memo: client_token });

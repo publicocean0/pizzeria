@@ -5,6 +5,7 @@
 /home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/CustomerServiceImpl.java
 /home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/UserServiceImpl.java
 /home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/AwsS3FileStorageService.java
+/home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/HbarProvider.java
 /home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/strategy/DeliveryCostCalculationStrategy.java
 /home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/DeliveryCostCalculationServiceImpl.java
 /home/cristian/pizzeria/service-impl/src/main/java/pzinsta/pizzeria/service/impl/strategy/impl/RandomTrackingNumberGenerationStrategy.java

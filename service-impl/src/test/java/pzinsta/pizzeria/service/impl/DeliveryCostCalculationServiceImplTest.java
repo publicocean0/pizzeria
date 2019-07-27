@@ -29,7 +29,7 @@ public class DeliveryCostCalculationServiceImplTest {
     public void shouldCalculateCost() throws Exception {
         // given
         Delivery delivery = new Delivery();
-        MonetaryAmount cost = Monetary.getDefaultAmountFactory().setNumber(9.99).setCurrency("USD").create();
+        MonetaryAmount cost = Monetary.getDefaultAmountFactory().setNumber(9.99).setCurrency("ℏ").create();
         Mockito.when(deliveryCostCalculationStrategy.calculateCost(delivery)).thenReturn(cost);
 
         // when

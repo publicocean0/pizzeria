@@ -13,11 +13,7 @@
             </div>
             <div class="col-sm-6 col-sm-offset-2 text-center">
                 <div class="pull-right">
-                    <i class="fa fa-cc-visa fa-4x" aria-hidden="true"></i>
-                    <i class="fa fa-cc-mastercard fa-4x" aria-hidden="true"></i>
-                    <i class="fa fa-cc-amex fa-4x" aria-hidden="true"></i>
-                    <i class="fa fa-cc-jcb fa-4x" aria-hidden="true"></i>
-                    <i class="fa fa-cc-discover fa-4x" aria-hidden="true"></i>
+                   <img src='<spring:url value="/resources/images/hbar.jpeg"/>' width=100px >
                 </div>
             </div>
         </div>
