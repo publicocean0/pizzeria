@@ -102,7 +102,7 @@
         </on-render>
         <transition on="continue" to="isPaymentSuccessful">
             <set name="flowScope.nonce" value="requestParameters.payment_method_nonce"/>
-            <set name="flowScope.paymentSuccessfull" value="requestParameters.paymentSuccessful"/>
+            <set name="flowScope.paymentSuccessful" value="requestParameters.paymentSuccessful"/>
         </transition>
         <transition on="cancel" to="endState" validate="false"/>
     </view-state>

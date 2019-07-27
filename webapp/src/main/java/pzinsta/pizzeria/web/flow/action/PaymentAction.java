@@ -29,7 +29,7 @@ public class PaymentAction {
     }
 public boolean isSuccessful(Object p){
         if (p instanceof Boolean )return (Boolean)p;
-        else if (p instanceof String ) return Boolean.getBoolean((String)p);
+        else if (p instanceof String ) return Boolean.valueOf((String)p);
              return false;
 }
 

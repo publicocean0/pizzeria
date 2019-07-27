@@ -9,7 +9,7 @@
 
     </head>
     <body>
-
+   <div id=hedera></div>
         <div class="container" id="container">
             <%@ include file="../fragments/navbar.jspf" %>
 
@@ -29,9 +29,9 @@
             <form:form method="post" id="paymentForm" autocomplete="false">
 
     <input type="hidden" id="nonce" name="payment_method_nonce"/>
-                <input type="hidden" name="_eventId" value="continue">
+                <input type="hidden" name="_eventId" value="continue"/>
 
-              <input type="hidden" name="paymentSuccessful" value="false">
+              <input type="hidden" name="paymentSuccessful" value="false"/>
 
                 <button class="btn btn-primary" type="submit" id="purchaseButton" data-loading-text="Processing..."><i class="fa fa-money" aria-hidden="true"></i> Purchase</button>
                 <a href="${flowExecutionUrl}&_eventId=cancel" id="cancelButton" class="btn btn-danger"><i class="fa fa-ban" aria-hidden="true"></i> Cancel</a>
@@ -71,13 +71,15 @@
                         contentid: client_token,
                         type: 'order',
                         memo: client_token ,
-                        attrID:'container'});
+                        attrID:'hedera'});
 
 
                         $.get( "https://mps.hashingsystems.com/memo/"+client_token+"?limit=1"
                           .done(function() {
-                            alert( "second success" );
-                              $('[name=paymentSuccessful]').val(true);
+
+                            if (response.response.length > 0) $('[name=paymentSuccessful]').val(true);
+
+
                             form.submit();
                           })
                           .fail(function() {
