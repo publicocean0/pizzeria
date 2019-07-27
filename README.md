@@ -80,7 +80,7 @@ mvn clean package
 #### 3. Launch the app
 
 The command line is : 
- java -Dbraintree.merchantId=ynwktbnrjyrnjkk5 -Dbraintree.publicKey=6888c482p684hbfz -Dbraintree.privateKey=38c7f52fde2b4351298a8740f802f5c2 -Drecaptcha.private.key=6LcQDa8UAAAAAKyQlehceLX9IJI_N7HSqljH-a78 -Drecaptcha.public.key=6LcQDa8UAAAAACtU3La7zJlC5uUDkGXkhXd3Y4UW -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=1044 -jar webapp/target/dependency/webapp-runner.jar --port 8081 --path pizzeria webapp/target/*.war
+ java  -Drecaptcha.private.key=6LcQDa8UAAAAAKyQlehceLX9IJI_N7HSqljH-a78 -Drecaptcha.public.key=6LcQDa8UAAAAACtU3La7zJlC5uUDkGXkhXd3Y4UW -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=1044 -jar webapp/target/dependency/webapp-runner.jar --port 8081 --path pizzeria webapp/target/*.war
 
 
 
