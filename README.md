@@ -63,24 +63,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### 1. [Maven](https://maven.apache.org/download.cgi)
 #### 2. [Node.js and npm](https://nodejs.org/en/)
-#### 3. [Braintree](https://sandbox.braintreegateway.com/) API keys
-1. Go to the [sandbox version](https://sandbox.braintreegateway.com/) of Braintree. 
-2. Sign up / log in.
-3. Go to Settings - API Keys and get the following:
-   1. Merchant ID
-   2. Public key
-   3. Private key (you'll have to click 'View' to see it)
-#### 4. [Google reCAPTCHA](https://www.google.com/recaptcha/admin) keys
-
-1. Go to Google reCAPTCHA and register a new site. 
-
-![recaptcha site registration](documentation/recaptcha_register_site.PNG?raw=true)
-
-2. Get the public (site) and private (secret) keys.
-
-![recaptcha keys](documentation/recaptcha_keys.PNG?raw=true)
-
-The keys above are not valid, so don't try to use them.
 
 ### Running the app
 
@@ -98,35 +80,10 @@ mvn clean package
 
 #### 3. Launch the app
 
-The application won't start unless all the following properties are provided.
+The command line is : 
+ java -Dbraintree.merchantId=ynwktbnrjyrnjkk5 -Dbraintree.publicKey=6888c482p684hbfz -Dbraintree.privateKey=38c7f52fde2b4351298a8740f802f5c2 -Drecaptcha.private.key=6LcQDa8UAAAAAKyQlehceLX9IJI_N7HSqljH-a78 -Drecaptcha.public.key=6LcQDa8UAAAAACtU3La7zJlC5uUDkGXkhXd3Y4UW -Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=1044 -jar webapp/target/dependency/webapp-runner.jar --port 8081 --path pizzeria webapp/target/*.war
 
-| Property              | Description |
-| --------------------- |-------------|
-| braintree.merchantId  | Braintree merchant ID |
-| braintree.publicKey   | Braintree public key |
-| braintree.privateKey  | Braintree private key |
-| recaptcha.public.key  | Google reCAPTCHA public (site) key |
-| recaptcha.private.key | Google reCAPTCHA private (secret) key |
 
-We have two options here. 
-
-##### Option 1. Set the properties as environment variables.
-
-If you've set the properties as environment variables, you can run the following command to start the app:
-
-```
-java -jar webapp/target/dependency/webapp-runner.jar --port 8081 --path pizzeria webapp/target/*.war
-```
-
-##### Option 2. Pass the properties as JVM arguments
-
-In this case the command is going to be a bit more complicated.
-
-```
-java -Dbraintree.merchantId=<your Braintree merchant ID> -Dbraintree.publicKey=<your Braintree public key> -Dbraintree.privateKey=<your Braintree private key> -Drecaptcha.private.key=<your reCAPTCHA private key> -Drecaptcha.public.key=<your reCAPTCHA public key> -jar webapp/target/dependency/webapp-runner.jar --port 8081 --path pizzeria webapp/target/*.war
-```
-
-You can modify the port and the context path. Also, there are other [options](https://github.com/jsimone/webapp-runner#options) available.
 
 #### 4. Verify
 
