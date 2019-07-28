@@ -14,7 +14,7 @@ The user can also opt for one of the specialty pizzas, and either order one of t
 
 ![Pizza Hedera payment](documentation/payment.png?raw=true)
 
-The payment requires hedera chrome extension
+The payment requires hedera chrome extension. MPS javascript library is used for interfacing with hedera servers.
 ### Pizza Builder on iPad
 
 ![Pizza Builder on iPad](documentation/gifs/builder_ipad.gif?raw=true)
