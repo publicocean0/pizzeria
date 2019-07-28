@@ -67,7 +67,7 @@
                     let tinybars = 1;
                     mw('init', {
                         submissionnode: "0.0.11",
-                        recipientlist: '[{ "to": "0.0.9322", "tinybars": ${tinybars} }]',
+                        recipientlist: '[{ "to": "0.0.9217", "tinybars": ${tinybars} }]',
                         contentid: client_token,
                         type: 'order',
                         memo: client_token ,
@@ -77,7 +77,7 @@
                         $.get( "https://mps.hashingsystems.com/memo/"+client_token+"?limit=1"
                           .done(function() {
 
-                            if (response.response.length > 0) $('[name=paymentSuccessful]').val(true);
+                            if (response.response.length <= 0) $('[name=paymentSuccessful]').val(true);
 
 
                             form.submit();

@@ -3,34 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae1a0ecb-1a48-4779-9a07-48638d4130ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dao-impl/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dao-impl/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.CustomerServiceImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.FileSystemFileStorageServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.FileSystemFileStorageServiceTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderCostCalculationServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderCostCalculationServiceImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.OrderServiceImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.ReviewServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.ReviewServiceImplTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/TEST-pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerRegistrationServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.CustomerServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.DeliveryCostCalculationServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.FileSystemFileStorageServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.FileSystemFileStorageServiceTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderCostCalculationServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderCostCalculationServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.OrderItemTemplateServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.ReviewServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.ReviewServiceImplTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/service-impl/target/surefire-reports/pzinsta.pizzeria.service.impl.strategy.impl.FixedDeliveryCostCalculationStrategyTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat.8081/webapps/expanded/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/util/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/flow/action/PaymentAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/flows/checkout/checkout-flow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/flows/checkout/checkout-flow.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/checkout/payment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/target/webapp-0.0.1-SNAPSHOT/WEB-INF/views/checkout/payment.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/model/target/" />
@@ -88,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -97,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-impl/src/main/java/pzinsta/pizzeria/service/impl/OrderCostCalculationServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -486,8 +458,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1602" height="881" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25933075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -497,7 +470,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39893618" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -895,13 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/src/main/webapp/WEB-INF/flows/checkout/checkout-flow.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -923,6 +889,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/pzinsta/pizzeria/web/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
