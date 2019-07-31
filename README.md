@@ -1,5 +1,5 @@
 
-# Pizza restaurant using Hedera payment technology 
+# Pizza restaurants using Hedera payment technology 
 
 A pizza ordering web application. 
 
